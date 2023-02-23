@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/stellayazilim/staj-blog-api/issues"
   },
-  "homepage": "https://github.com/stellayazilim/staj-blog-api#readme"
+  "homepage": "https://github.com/stellayazilim/staj-blog-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
