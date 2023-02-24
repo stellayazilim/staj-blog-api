@@ -1,4 +1,4 @@
-# Ahmet Kalali - Kirklareli universitesi - Pinarhisar Myo
+# Ahmet Kalali - Kirklareli universitesi
 
 
 
