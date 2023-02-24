@@ -8,6 +8,7 @@ app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json())
 
 app.use("/blog", routes.blogRoutes)
+app.use("/user", routes.userRoutes)
 app.get("/", (req, res)=>{
     res.send("hello world" )
 })
